@@ -34,12 +34,17 @@
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 </p>
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+</p>
+
+<h3 align="center">📱 Mobile</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
@@ -54,12 +59,20 @@
 
 <h3 align="center">🤖 AI / ML</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
+
+<p align="center">
+NumPy • Pandas • Matplotlib • Scikit-learn
 </p>
 
 <h3 align="center">🧰 Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,figma" />
+</p>
+
+<p align="center">
+Redmine
 </p>
 
 <hr/>
@@ -69,6 +82,15 @@
 <h2 align="center">🚀 Projects</h2>
 
 <div>
+
+  <h3>🍅 Tomato.com – Food Delivery Platform</h3>
+  <ul>
+    <li>Full stack food delivery website with Admin & User panels</li>
+    <li>User features: track orders, book, cancel & filter food items</li>
+    <li>Admin panel: manage food items, bookings & update order status</li>
+    <li>Tech: MERN Stack</li>
+  </ul>
+
   <h3>🔬 Battery Molecular Mind Predictor</h3>
   <ul>
     <li>LSTM-based deep learning model for battery degradation prediction</li>
@@ -82,6 +104,7 @@
     <li>OCR + NLP models (BART, FLAN-T5, BERT)</li>
     <li>Tech: FastAPI, Next.js, HuggingFace</li>
   </ul>
+
 </div>
 
 <hr/>
@@ -120,29 +143,12 @@
 
 <hr/>
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anish45&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish45&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
 
 <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anish45&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr/>
-
-<!-- ===================== TROPHIES ===================== -->
-
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anish45&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 <hr/>
@@ -158,7 +164,7 @@
   <a href="https://github.com/anish45">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/anish-kulkarni-10b8b3285/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
