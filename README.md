@@ -1,16 +1,168 @@
-## Hi there 👋
+<!-- ===================== HEADER ===================== -->
 
-<!--
-**Animankul/Animankul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Anish Kulkarni</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+ML+Engineer;MERN+Stack+Specialist;Building+Real-World+Solutions" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🚀 Transforming real-world problems into scalable AI-powered MERN applications</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anish45&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/anish45?label=Followers&style=social" />
+</p>
+
+<hr/>
+
+<!-- ===================== ABOUT ===================== -->
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+💡 Full Stack Developer skilled in MERN, FastAPI & AI/ML <br/>
+📱 Built Government-scale applications (MCG Project) <br/>
+🤖 Developed AI platforms using NLP & LSTM models <br/>
+⚡ Passionate about clean code, scalability & performance
+</p>
+
+<hr/>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+<h3 align="center">🤖 AI / ML</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<h3 align="center">🧰 Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+<hr/>
+
+<!-- ===================== PROJECTS ===================== -->
+
+<h2 align="center">🚀 Projects</h2>
+
+<div>
+  <h3>🔬 Battery Molecular Mind Predictor</h3>
+  <ul>
+    <li>LSTM-based deep learning model for battery degradation prediction</li>
+    <li>Dashboard for SOH & Remaining Useful Life analysis</li>
+    <li>Tech: React.js, Python, PyTorch</li>
+  </ul>
+
+  <h3>📄 Sortify – AI Document Analysis Platform</h3>
+  <ul>
+    <li>AI-powered document processing (PDF, images, scanned files)</li>
+    <li>OCR + NLP models (BART, FLAN-T5, BERT)</li>
+    <li>Tech: FastAPI, Next.js, HuggingFace</li>
+  </ul>
+</div>
+
+<hr/>
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+<h2 align="center">💼 Experience</h2>
+
+<div>
+  <h3>🏢 Software Developer Intern — Austere Systems</h3>
+
+  <h4>📱 MCG Mobile Application</h4>
+  <ul>
+    <li>Developed React Native frontend</li>
+    <li>Implemented role-based workflows</li>
+    <li>Complaint tracking with image uploads</li>
+  </ul>
+
+  <h4>🌐 Dial 11 Platform</h4>
+  <ul>
+    <li>Developed Web & Mobile App</li>
+    <li>Built Admin & Officer dashboards</li>
+    <li>Integrated Node.js & FastAPI backend APIs</li>
+  </ul>
+</div>
+
+<hr/>
+
+<!-- ===================== LEETCODE ===================== -->
+
+<h2 align="center">🧠 Problem Solving & DSA</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/anish_45?theme=radical&font=baloo&ext=heatmap" />
+</p>
+
+<hr/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anish45&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anish45&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anish45&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr/>
+
+<!-- ===================== TROPHIES ===================== -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anish45&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+<hr/>
+
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:anishkulkarni182@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/anish45">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+<hr/>
+
+<h3 align="center">⚡ Code. Build. Scale. Repeat.</h3>
