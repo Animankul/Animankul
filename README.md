@@ -9,8 +9,8 @@
 <h3 align="center">🚀 Transforming real-world problems into scalable AI-powered MERN applications</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anish45&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/anish45?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Animankul&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Animankul?label=Followers&style=social" />
 </p>
 
 <hr/>
@@ -57,13 +57,16 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
+<!-- AI/ML SECTION (FIXED CLEAN DESIGN) -->
+
 <h3 align="center">🤖 AI / ML</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
 </p>
 
 <p align="center">
-NumPy • Pandas • Matplotlib • Scikit-learn
+  NumPy • Pandas • Matplotlib • Scikit-learn
 </p>
 
 <h3 align="center">🧰 Tools</h3>
@@ -72,7 +75,7 @@ NumPy • Pandas • Matplotlib • Scikit-learn
 </p>
 
 <p align="center">
-Redmine
+  Redmine
 </p>
 
 <hr/>
@@ -86,8 +89,8 @@ Redmine
   <h3>🍅 Tomato.com – Food Delivery Platform</h3>
   <ul>
     <li>Full stack food delivery website with Admin & User panels</li>
-    <li>User features: track orders, book, cancel & filter food items</li>
-    <li>Admin panel: manage food items, bookings & update order status</li>
+    <li>User: track, book, cancel & filter food items</li>
+    <li>Admin: manage food, bookings & update order status</li>
     <li>Tech: MERN Stack</li>
   </ul>
 
@@ -143,16 +146,6 @@ Redmine
 
 <hr/>
 
-<!-- ===================== CONTRIBUTION STREAK ===================== -->
-
-<h2 align="center">🔥 Contribution Streak</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anish45&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr/>
-
 <!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🌐 Connect With Me</h2>
@@ -161,7 +154,7 @@ Redmine
   <a href="mailto:anishkulkarni182@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://github.com/anish45">
+  <a href="https://github.com/Animankul">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/anish-kulkarni-10b8b3285/">
