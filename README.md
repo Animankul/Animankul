@@ -8,10 +8,6 @@
 
 <h3 align="center">🚀 Transforming real-world problems into scalable AI-powered MERN applications</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Animankul&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Animankul?label=Followers&style=social" />
-</p>
 
 <hr/>
 
